@@ -1,0 +1,12 @@
+     
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sayfa başlığı</title>
+</head>
+<body>
+<p>
+Bu tür şikayetler <abbr title="Bilgi Teknolojileri ve İletişim Kurumu">BTK</abbr> tarafından değerlendirilir.
+</p>
+</body>
+</html>
